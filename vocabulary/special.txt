@@ -1,0 +1,6 @@
+<pad>
+<eos>
+<tp>
+<de>
+<en>
+<unk>
